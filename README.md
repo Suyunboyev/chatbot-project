@@ -1,10 +1,10 @@
-# 🤖 Foydalanuvchilar Chatbot
+# Foydalanuvchilar Chatbot
 
 A chatbot that answers natural language questions about a user database powered by Groq (free AI) + FastAPI + SQLite.
 
 ---
 
-## 💬 Example Questions
+## Example Questions
 - "Toshkentda nechta premium foydalanuvchi bor?"
 - "Eng yuqori daromadli 5 ta foydalanuvchini ko'rsat"
 - "Dasturchilar o'rtacha daromadi qancha?"
@@ -13,14 +13,14 @@ A chatbot that answers natural language questions about a user database powered 
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - Python 3.10 or higher
 - A free Groq API key (get it at https://console.groq.com)
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Step 1: Download the project
 Download this repository as a ZIP and extract it, or clone it:
